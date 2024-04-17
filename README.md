@@ -1,3 +1,6 @@
+# Another resource for better understanding
+https://pysdr.org/content/intro.html
+
 # ThinkDSP
 
 *Think DSP* is an introduction to Digital Signal Processing in Python.
